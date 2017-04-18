@@ -22,9 +22,10 @@
     },
     "masterImage": {
       "type": "string",
-      "defaultValue": "CentOS_7.2",
+      "defaultValue": "CentOS-HPC_7.1",
       "allowedValues": [
         "CentOS_6.7",
+        "CentOS-HPC_7.1",
         "CentOS_7.2",
         "RHEL_7.2",
         "W2012R2"
